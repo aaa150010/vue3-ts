@@ -1,11 +1,7 @@
 <template>
-  <div class="container">111</div>
+  <div></div>
 </template>
-<script setup lang="ts">
-console.log('wosini')
-console.log('11111')
-</script>
-
+<script setup lang="ts"></script>
 <style>
 * {
   margin: 0;
