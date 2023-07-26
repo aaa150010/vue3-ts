@@ -4,7 +4,7 @@
 <script setup lang="ts">
 console.log('wosini')
 console.log('1239hsdf')
-console.log("sofjowjo")
+console.log('sofjowjo')
 </script>
 
 <style>
