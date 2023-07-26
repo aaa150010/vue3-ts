@@ -4,7 +4,6 @@
     layout="total, sizes, prev, pager, next, jumper"
     :total="400"
   />
-  <el-button>1212</el-button>
 </template>
 <script setup lang="ts"></script>
 <style>
