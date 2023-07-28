@@ -1,17 +1,8 @@
 <template>
-  <el-pagination
-    :page-sizes="[100, 200, 300, 400]"
-    layout="total, sizes, prev, pager, next, jumper"
-    :total="400"
-  />
-  <el-pagination
-    :page-sizes="[100, 200, 300, 400]"
-    layout="total, sizes, prev, pager, next, jumper"
-    :total="400"
-  />
+  <router-view></router-view>
 </template>
 <script setup lang="ts"></script>
-<style>
+<style lang="scss">
 * {
   margin: 0;
   padding: 0;
